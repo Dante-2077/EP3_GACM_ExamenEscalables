@@ -3,7 +3,7 @@ Alumno: Genaro Adan Cerrillo Martinez
 Herramienta usada: Claude, Gemini
 
 Explicacion de uso: Los usos principales que le di fueron principalmente para
-la solucion en mis errores de compilado, sintaxis, dar estructura al archivo de este ejercicio, asi como para aplicar el diseño
+la solucion en los errores de compilado, sintaxis, dar estructura al archivo de este ejercicio, asi como para aplicar el diseño
 de manera rapida en el front, en esta ocasion tome muchos de los elementos en base
 a lo que teniamos en clase solo necesite reajustarlos y verificar que funcionara (lo mas tardado)
 aun asi considero que el uso aproximado que le di para poder hacer este examen fue de
