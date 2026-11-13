@@ -1,0 +1,13 @@
+Uso de IA
+Alumno: Genaro Adan Cerrillo Martinez
+Herramienta usada: Claude, Gemini
+
+Explicacion de uso: Los usos principales que le di fueron principalmente para
+la solucion en mis errores de compilado, sintaxis, dar estructura al archivo de este ejercicio, asi como para aplicar el diseño
+de manera rapida en el front, en esta ocasion tome muchos de los elementos en base
+a lo que teniamos en clase solo necesite reajustarlos y verificar que funcionara (lo mas tardado)
+aun asi considero que el uso aproximado que le di para poder hacer este examen fue de
+alrededor del 40-50% de IA repartidos entre Claude y Gemini, por las razones anteriormente mencionadas.
+
+De igual manera adjunte como extra un pdf con imagenes de las pruebas del post y get funcionales 
+tras haber conseguido conectar la bd correctamente y tener ya corregido el programa.

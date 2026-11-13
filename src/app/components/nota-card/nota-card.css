@@ -1,0 +1,36 @@
+.card {
+  width: 260px;
+  min-height: 140px;
+  padding: 20px;
+  border-radius: 16px;
+  border-top: 6px solid #6366f1;
+  background-color: #ffffff;
+  box-shadow:
+    0 4px 10px rgba(30, 30, 60, 0.06),
+    0 1px 3px rgba(30, 30, 60, 0.08);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 10px 20px rgba(30, 30, 60, 0.1),
+    0 2px 6px rgba(30, 30, 60, 0.08);
+}
+
+.nota-titulo {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 8px;
+  color: #1f2430;
+}
+
+.nota-contenido {
+  font-size: 0.95rem;
+  margin: 0;
+  color: #5b6070;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}

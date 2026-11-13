@@ -1,0 +1,19 @@
+
+<header class="app-header">
+  <h1>Notas Rápidas ({{ notaCount() }} notas)</h1>
+</header>
+
+<div class="form-nota">
+  <input type="text" [formControl]="tituloControl" placeholder="Título">
+  <input type="text" [formControl]="contenidoControl" placeholder="Contenido">
+  <button (click)="onGuardar()">Guardar</button>
+</div>
+
+<div class="container">
+  @for (nota of notas(); track nota.id) {
+    <app-nota-card [nota]="nota"></app-nota-card>
+  } @empty {
+    <!--no hay notas -->
+    <p class="empty-message">No hay notas todavía</p>
+  }
+</div>
